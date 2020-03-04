@@ -7,10 +7,6 @@
     <groupId>edu.study</groupId>
     <artifactId>study</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <description>
-        Exemplos encontrados no livro:
-        - Effective Java - 3rd Edition
-    </description>
 
     <properties>
         <java.version>11</java.version>
