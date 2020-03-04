@@ -1,4 +1,4 @@
-package edu.headfirst.designpatterns.strategy;
+package edu.headfirst.designpatterns.strategy.ducks.quack;
 
 /**
  * @author frfontoura

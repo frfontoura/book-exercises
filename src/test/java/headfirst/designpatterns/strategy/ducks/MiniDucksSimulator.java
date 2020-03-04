@@ -1,8 +1,7 @@
-package headfirst.designpatterns.strategy;
+package headfirst.designpatterns.strategy.ducks;
 
-import edu.headfirst.designpatterns.strategy.*;
-
-import javax.swing.text.StyleContext;
+import edu.headfirst.designpatterns.strategy.ducks.*;
+import edu.headfirst.designpatterns.strategy.ducks.fly.FlyRocketPowered;
 
 /**
  * @author frfontoura

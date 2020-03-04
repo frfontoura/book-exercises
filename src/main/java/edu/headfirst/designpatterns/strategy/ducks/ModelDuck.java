@@ -1,4 +1,7 @@
-package edu.headfirst.designpatterns.strategy;
+package edu.headfirst.designpatterns.strategy.ducks;
+
+import edu.headfirst.designpatterns.strategy.ducks.fly.FlyNoWay;
+import edu.headfirst.designpatterns.strategy.ducks.quack.Quack;
 
 /**
  * @author frfontoura
