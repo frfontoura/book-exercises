@@ -1,4 +1,4 @@
-# Study
+# book-exercises
 
 Used for the development of examples found in books. Also for future reference.
 
