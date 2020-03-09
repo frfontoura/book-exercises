@@ -2,6 +2,8 @@ package headfirst.designpatterns.observer.weatherdata;
 
 import edu.headfirst.designpatterns.observer.weatherdata.*;
 
+import java.util.Observable;
+
 /**
  * @author frfontoura
  * @version 1.0 09/03/2020
