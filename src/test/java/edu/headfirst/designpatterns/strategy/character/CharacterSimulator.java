@@ -1,4 +1,4 @@
-package headfirst.designpatterns.strategy.character;
+package edu.headfirst.designpatterns.strategy.character;
 
 import edu.headfirst.designpatterns.strategy.characters.Character;
 import edu.headfirst.designpatterns.strategy.characters.Knight;

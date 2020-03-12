@@ -1,0 +1,1 @@
+Conheco o padrao Decorator, Entao Eu Mando!

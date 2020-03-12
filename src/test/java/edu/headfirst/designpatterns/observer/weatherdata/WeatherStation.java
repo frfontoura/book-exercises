@@ -1,4 +1,4 @@
-package headfirst.designpatterns.observer.weatherdata;
+package edu.headfirst.designpatterns.observer.weatherdata;
 
 import edu.headfirst.designpatterns.observer.weatherdata.*;
 
